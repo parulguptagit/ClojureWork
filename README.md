@@ -1,0 +1,2 @@
+# ClojureWork
+All Clojure projects
